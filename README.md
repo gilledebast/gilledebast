@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Born in 1994, Gille DE BAST is a designer and engineer graduated in design technology from Sorbonne University and École Estienne, Paris.
+Gille DE BAST is a designer and engineer graduated in design technology from Sorbonne University and École Estienne, Paris.
 
 A designer in the research sphere, Gille DE BAST is a specialist in human to machine interaction, algorithms, neurosciences and artificial intelligence. He explores the field of brain-environment interfaces using brain waves as creation material.
 
